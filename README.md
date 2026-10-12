@@ -55,3 +55,7 @@ The body has two parts so it can be opened when needed. The base plate and arms 
 CAD design: Krish
 
 [God's Hand on GitHub](https://github.com/unknowngamer69/God-s-Hand)
+
+Electronics : Shaurya
+
+[God's Hand on GitHub](https://github.com/GoTouchGra55/HoG)
