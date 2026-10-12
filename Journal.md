@@ -5,7 +5,7 @@ description: "God's Hand is a Humanitarian Hexacopter Drone designed for helping
 created_at: "10-10-2026 (DD/MM/YYYY) [Come on whole world uses this format not some weird American Format of mm/dd/yyyy and this is used throughout my project"
 ---
  
-Time Spent-  Hours
+Time Spent- 12.2 Hours
 
 
 ## 09-10-2026 Main lower and Upper 70-80% done with lower base plate 100% done
@@ -23,5 +23,22 @@ Damn man, while writing this journal today i missed one very important mistake, 
 
 **Total time spent: 1 Hour 30 Minutes**
 ![Main Lower](https://cdn.hackclub.com/01a1271e-6984-7135-bfdf-854df6b7e0c5/img_20261011_001016.jpg)
-![Lower Base Plate](https://cdn.hackclub.com/01a1271e-6a01-799c-a242-2a36e01ac336/img_20261011_001039.jpg
-)
+![Lower Base Plate](https://cdn.hackclub.com/01a1271e-6a01-799c-a242-2a36e01ac336/img_20261011_001039.jpg)
+
+
+## 11-10-2026 Base Plate 95% done and Lower Main too
+
+Well things today were quite different, well as i said yesterday planned some new design for blase plat that would be more good, guess what, i did that otday, :yay . Well first i made rectangles 3 long rectangles and then i tried making equal angles between them that is 60 degree, but uk it was giving me issue, i really don't know what the issue was but i just remade things. Initially i planned rectangular arms but while discussing with my teammate while making we confirmed we will be doing circular rods. Also after literally alot of research through AI for motor and propeller, i initially looked at motor and propeller made for jets lol without me even realising it, later i checked description and got to know propeller has 1m diameter, i am like wtf?? then since my teammate is good in these stuff he decided best motor and propeller and i made things as per it, and for arms we even decided to use Carbon fiber instead of platic for light weight and strong drone. Now i also had to decrese size of main lower, bcz i though it is unnecessarily big, so i reduced it size still remaining with reducing size of main top, will do it tomorrow. Also since we shifted to rod i have to make base plate according to that so i have decided we will have a thing in base plate and insert rod inside it and screw it. and well that's it for today, my time was mainly utilised in making base plate it took alot of time and maths and also for research of motor and propeller as it is very important. Also after this base plate is 95% done i just need to make holes to connect it to main lower all other things like screw holes for arm attchedment and all other things done with mobie lol first time today did this mb i am creative and first to make a lapse session like this lol. And well that's it for today
+
+**Total time spent: 4 Hour 15 Minutes**
+![Main Lower](https://cdn.hackclub.com/01a12e18-2d46-73ef-8b6e-2d4ba654fec5/screenshot_2026-10-12_084126.png)
+![Lower Base Plate](https://cdn.hackclub.com/01a12e16-cfb3-775b-b098-125a0e420420/image.png)
+
+## 12-10-2026 Base Plate, Main Lower and Top 100% done and arm 80% done
+
+Well i wake early at Moring Today, and first I completed the Base Plate with making holes in base plate to attach Main Lower and Base plate, and to do this fast i added circle in center for Main lower and base plate and using it i made holes accurately at accurate place. After this, just like making holes in Main lower i made holes, i did same in Main top same size same location lol. After this i started making arm, i learned new thing today lol, you know making a sketch on curved surface area of cylinder that is cylinder's height is not possible so with help of AI i did it my making a plane that is tagent to the CSA and then on that lane i draw circle for holes and then i sxtruded removed it. And well that's it for Today
+
+**Total time spent: 1 Hour 25 Minutes**
+![Main Top](https://cdn.hackclub.com/01a12e2b-eddc-7fa2-8030-37340384c263/image.png)
+![Lower Base Plate](https://cdn.hackclub.com/01a12e2c-40f6-7c37-920d-c28df9e14d9b/image.png)
+![Arm](https://cdn.hackclub.com/01a12e2c-b105-7905-96fb-fc7e6ae5df8d/image.png)
