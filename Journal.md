@@ -2,7 +2,7 @@
 title: "God's Hand"
 author: "Unknown Gamer"
 description: "God's Hand is a Humanitarian Hexacopter Drone designed for helping lives around a natural or man made disaster"
-created_at: "10-10-2026 (DD/MM/YYYY) [Come on whole world uses this format not some weird American Format of mm/dd/yyyy and this is used throughout my project"
+created_at: "09-10-2026 (DD/MM/YYYY) [Come on whole world uses this format not some weird American Format of mm/dd/yyyy and this is used throughout my project"
 ---
  
 Time Spent- 12.2 Hours
@@ -46,3 +46,14 @@ Well i wake early at Moring Today, and first I completed the Base Plate with mak
 ![Main Top](https://cdn.hackclub.com/01a12e2b-eddc-7fa2-8030-37340384c263/image.png)
 ![Lower Base Plate](https://cdn.hackclub.com/01a12e2c-40f6-7c37-920d-c28df9e14d9b/image.png)
 ![Arm](https://cdn.hackclub.com/01a12e2c-b105-7905-96fb-fc7e6ae5df8d/image.png)
+
+
+## 13-10-2026 Lower Base Plate and arm and arm connector done
+
+Alright so today i was worri3d mainly about Motors man like will we mount it of drone and all, i just opened the image and tab of motor to see things around, then i thought why tf even i am worring about it, i can it when arms are done, so i just concentrated on arms and started doing it, i complted and did little changes in holes part mainly base plate and arm connector hole, then after that i started making arm connector and it was kinda hard bcz i first time used thread thing, also i had to make a assemble to see if things fit properly, u know i had to make somesort of support for both arms so they dont't go up or down, so i ended having threaded ends and for middle part to hold arms firm i use circular things using assembly u got perfect sizes and dimensions for it. so after it was done i checked and tried to figure our motor again but it was still little confusing so again dropped off the things and made a base for it and added face blend to it because i thing this will make the arm more hard and strong. Well that's it for today.
+
+**Total time spent: 2 Hours**
+
+![Assembly](https://cdn.hackclub.com/01a135b2-c271-7840-bdad-5167c068b0ed/screenshot_2026-10-13_101410.png)
+![Arm Connector](https://cdn.hackclub.com/01a135b6-06c9-7d44-b0f4-ce15fc0a4c27/image.png)
+![Arm](https://cdn.hackclub.com/01a135b6-4752-7fa9-ac98-ef91c41918f9/image.png)
