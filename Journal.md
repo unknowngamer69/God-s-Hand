@@ -57,3 +57,14 @@ Alright so today i was worri3d mainly about Motors man like will we mount it of 
 ![Assembly](https://cdn.hackclub.com/01a135b2-c271-7840-bdad-5167c068b0ed/screenshot_2026-10-13_101410.png)
 ![Arm Connector](https://cdn.hackclub.com/01a135b6-06c9-7d44-b0f4-ce15fc0a4c27/image.png)
 ![Arm](https://cdn.hackclub.com/01a135b6-4752-7fa9-ac98-ef91c41918f9/image.png)
+
+
+## 14-10-2026 Motor holes and Stand bottom middle partdone
+
+Well i started things today by first doing a hell lot of changes today in arm, because eventually at night yesterday i thought the hole for arm connetor would be way too close to propeller of motor like i didn't thought about this prior i really don't know many why ideas and realisation comes in my mind when i try to sleep :cryin . Anyways so i did changes in arms and i eventually had to make 2 arms 1 as lower arms and 1 as uppper obviously bcz off propeller its fking 13 cm long, damn man, anyways after doing changes to that ifnally searched some sketches of the motor we will using in dron and then as per those sketches i made hole in mototr holding base in arms it very precise (trust me bro).After that i searched for stand for lower base plat you can also call it landing gear that also hold drone lol, i was looking for very sturdy and good design and ended up getting like literally best design i really loved that and i have decided to make that in parts so i design stand's lower parts's middle section today with threads as i am thinking for leager parts we can use parts itself instead of screws and all and ngl this was hard making a threaded hole was really hard i had to take help of AI how to do it. And that's it for Today.
+
+After Journal Edit- Sorry reviewer i forgot to take screenshot of stand lower middle thing and i did cad today and things are completely changed
+
+**Total time spent: 2 Hours**
+
+![Arm](https://cdn.hackclub.com/01a145fc-dc01-77e2-80d1-2d8982cf4547/image.png)
