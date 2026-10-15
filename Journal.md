@@ -68,3 +68,17 @@ After Journal Edit- Sorry reviewer i forgot to take screenshot of stand lower mi
 **Total time spent: 2 Hours**
 
 ![Arm](https://cdn.hackclub.com/01a145fc-dc01-77e2-80d1-2d8982cf4547/image.png)
+
+
+## 15-10-2026 Stand 99% done
+
+Alr, so i did alot of things Today, first things first i made side part of stand lower part so it can connect to middle part and added threads to it, not much rocket science lol it was way too easy, after that i first thought to gadd stand height to drone via cylinderical things that i will attach to lower middle prt of stand but then tought why to add screw things in it so i directly that thing on top of it and use face blend, then i started making the stand connector for top part of stand and ngl it was hard like literlly, like i know what i wanted but didn't know how to make it so after some here and there i finally made it and added screw holes in it to connect with other connector so stand stays in between, and then i though of using the same to connect stand to main base plate so i copied the the main connector and first i added circular culinder directly so stand is not just right below drone, but then as per image i noticed its angled actually not 90 degree to ground and that makes sense actually, how?? idk byut my gut feeling says so, so i did alot of trial and error method which angle should be best and then i finally added box in it and added champher to it so it creates certain angle to cylinder and then i addes a rectangular part after cylinder to connect it to lower base plate properly. Now after all of this i tried assembling all parts of stand to see if its perfect or not also i tried placing it in drone;s lower base to see where can we attach it, after doing some here and there to decide stand's position, i though of adding some height from bottom to drone and attach stand there bcz arms things were getting in between stand and after i made that rectangular box things for stand to connect it with lower base plat it was good i made holes in it to connect stand and that connector and connector and lower base plate. and well that's it for today
+
+**Total time spent: 2 Hours**
+
+![Stand Down Side](https://cdn.hackclub.com/01a15063-c855-756d-9500-3b8c2e1b2334/image.png)
+![Stand Down middle](https://cdn.hackclub.com/01a15064-fcdb-70ff-bb90-528382a955a8/image.png)
+![Stand Connector Front](https://cdn.hackclub.com/01a15065-f960-71f3-b748-550a0ea24f70/image.png)
+![Stand connector Back](https://cdn.hackclub.com/01a15067-0c04-728c-b45c-e93b9f940eca/image.png)
+![Stand Assembly](https://cdn.hackclub.com/01a15067-80e8-7ccb-ae1a-59ff332bac1f/image.png)
+![Stand to base plate connector](https://cdn.hackclub.com/01a15067-80e8-7ccb-ae1a-59ff332bac1f/image.png)
