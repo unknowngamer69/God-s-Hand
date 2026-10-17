@@ -82,3 +82,8 @@ Alr, so i did alot of things Today, first things first i made side part of stand
 ![Stand connector Back](https://cdn.hackclub.com/01a15067-0c04-728c-b45c-e93b9f940eca/image.png)
 ![Stand Assembly](https://cdn.hackclub.com/01a15067-80e8-7ccb-ae1a-59ff332bac1f/image.png)
 ![Stand to base plate connector](https://cdn.hackclub.com/01a15067-80e8-7ccb-ae1a-59ff332bac1f/image.png)
+
+
+## 17-10-2026 Stand 100% done
+
+Well Alright things were engineering nightmare for today bcz we actally needed to make hole in base plate so the connector of plate can be connected, now we can't just put it at 2 random places right? we have to put it in a way that its actually able to stand properly sturdily, so first as you might seen in lapse, i did alot like literally alot of measurements and planning and all just to place 9-12 holes (its night i want to sleep so i don't remeber exact number) in base plate, so after alot of hardware i did it, i did it in between 2 arms connector part and well that's it for today.
