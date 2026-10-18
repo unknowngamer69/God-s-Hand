@@ -5,7 +5,7 @@ description: "God's Hand is a Humanitarian Hexacopter Drone designed for helping
 created_at: "09-10-2026 (DD/MM/YYYY) [Come on whole world uses this format not some weird American Format of mm/dd/yyyy and this is used throughout my project"
 ---
  
-Time Spent- 12.2 Hours
+Time Spent- 23 Hours 15 minutes
 
 
 ## 09-10-2026 Main lower and Upper 70-80% done with lower base plate 100% done
@@ -87,3 +87,15 @@ Alr, so i did alot of things Today, first things first i made side part of stand
 ## 17-10-2026 Stand 100% done
 
 Well Alright things were engineering nightmare for today bcz we actally needed to make hole in base plate so the connector of plate can be connected, now we can't just put it at 2 random places right? we have to put it in a way that its actually able to stand properly sturdily, so first as you might seen in lapse, i did alot like literally alot of measurements and planning and all just to place 9-12 holes (its night i want to sleep so i don't remeber exact number) in base plate, so after alot of hardware i did it, i did it in between 2 arms connector part and well that's it for today.
+
+
+**Total time spent: 1 Hours**
+
+## 18-10-2026 Drone 85% done, camera mount 40% and stand 100%
+
+Ahoy!!(yeah i am learning new words lol), well things started today with the stand,and while writing this i noticed i didn't wrote total time spent yesterday lol, also while working on stand i asked a question why am i putting stand in between 2 arms making things complex, so then i realised oh i was doing this because initially base plate was colliding with stand and since we added connector to connect both of them this won't be a problem so first i checked this in assembly and after confirming its goodd i started doing sketch for this and tbh this was 200 times easier to do than between 2 arms thing, so i did it and made holes fot it. Then after this i started working on camera mount models i initially decided and then i imported a part of it check its dimensions and positions and do it, now i was doing this first time i had to measure things as per triangle corners on the imported model it was hard but someohow i did it, i have only completed 40% and i also remain with container that will carry food for me, ot uhhh caryy food and other things for people in needy and also RC model. and with this i can say dron is 85 ish % done i guess and then i exported models and arranged them properly. and well that was it for today, lets see you in next week
+
+**Total time spent: 1 Hour 30 Minutes**
+
+![Lower Base Plate](https://cdn.hackclub.com/01a1507e-1ea9-72e8-b7bf-f4494fee42d7/image.png)
+![Base plate with stand and its connector assembly](https://cdn.hackclub.com/01a1507e-5ed0-7275-9d03-0a512f005af5/image.png)
